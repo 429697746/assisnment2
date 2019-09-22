@@ -29,7 +29,7 @@ There are four parts, as follows:
 
 
 
-1234567
+
 
 Main components
 
